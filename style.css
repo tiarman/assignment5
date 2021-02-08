@@ -1,0 +1,22 @@
+.meal-info {
+    width: 38rem !important;
+}
+
+.meal-info img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.meal-info p {
+    font-weight: normal !important;
+    color: #6C6C6C !important;
+}
+
+.meal-info p img {
+    background-color: white;
+    margin-right: 8px;
+    width: 18px;
+    height: 18px;
+    
+}
